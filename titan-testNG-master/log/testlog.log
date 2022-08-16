@@ -1,0 +1,90 @@
+2022-07-24 23:25:47,725 - logger_File -INFO - Hotel Page is opened
+2022-07-24 23:27:34,140 - logger_File -INFO - Hotel Page is opened
+2022-07-24 23:58:40,660 - logger_File -INFO - Hotel Page is opened
+2022-07-25 00:02:21,929 - logger_File -INFO - Hotel Page is opened
+2022-07-25 00:04:15,380 - logger_File -INFO - Hotel Page is opened
+2022-07-25 00:05:24,961 - logger_File -INFO - Hotel Page is opened
+2022-07-25 00:07:26,338 - logger_File -INFO - Hotel Page is opened
+2022-07-25 00:10:19,051 - logger_File -INFO - Hotel Page is opened
+2022-07-25 00:10:56,235 - logger_File -INFO - Hotel Page is opened
+2022-07-25 00:13:15,278 - logger_File -INFO - Hotel Page is opened
+2022-07-25 00:13:46,028 - logger_File -INFO - Hotel Page is opened
+2022-07-25 00:14:49,797 - logger_File -INFO - Hotel Page is opened
+2022-07-25 10:59:49,970 - logger_File -INFO - Hotel Page is opened
+2022-07-25 11:00:34,967 - logger_File -INFO - Hotel Page is opened
+2022-07-25 11:01:05,501 - logger_File -INFO - Hotel Page is opened
+2022-07-25 11:02:32,514 - logger_File -INFO - Hotel Page is opened
+2022-07-25 11:04:05,909 - logger_File -INFO - Hotel Page is opened
+2022-07-25 11:04:24,837 - logger_File -INFO - Hotel Page is opened
+2022-07-25 11:09:01,143 - logger_File -INFO - Hotel Page is opened
+2022-07-25 11:15:36,702 - logger_File -INFO - Hotel Page is opened
+2022-07-25 11:16:11,084 - logger_File -INFO - Hotel Page is opened
+2022-07-25 11:29:44,788 - logger_File -INFO - Hotel Page is opened
+2022-07-25 11:34:37,574 - logger_File -INFO - Hotel Page is opened
+2022-07-25 11:35:46,151 - logger_File -INFO - Hotel Page is opened
+2022-07-25 11:37:51,590 - logger_File -INFO - Hotel Page is opened
+2022-07-25 11:54:02,551 - logger_File -INFO - Hotel Page is opened
+2022-07-25 11:54:24,227 - logger_File -INFO - Hotel Page is opened
+2022-07-25 11:56:33,919 - logger_File -INFO - Hotel Page is opened
+2022-07-25 12:02:17,374 - logger_File -INFO - Test Execution Started
+2022-07-25 12:02:20,924 - logger_File -INFO - Hotel Page is opened
+2022-07-25 12:04:58,403 - logger_File -INFO - Start of Execution
+2022-07-25 12:05:01,729 - logger_File -INFO - Hotel Page is opened
+2022-07-25 12:05:01,732 - logger_File -INFO - Test Execution Started
+2022-07-25 12:05:01,792 - logger_File -INFO - Test was passed successfully
+2022-07-25 12:05:01,793 - logger_File -INFO - method name: f
+2022-07-25 12:05:01,935 - logger_File -INFO - End of Execution
+2022-07-25 12:07:34,643 - logger_File -INFO - Start of Execution
+2022-07-25 12:07:37,827 - logger_File -INFO - Hotel Page is opened
+2022-07-25 12:07:37,830 - logger_File -INFO - Test Execution Started
+2022-07-25 12:07:37,955 - logger_File -INFO - Test was passed successfully
+2022-07-25 12:07:37,956 - logger_File -INFO - method name: f
+2022-07-25 12:07:38,082 - logger_File -INFO - End of Execution
+2022-07-25 12:10:18,977 - logger_File -INFO - Start of Execution
+2022-07-25 12:10:22,171 - logger_File -INFO - Hotel Page is opened
+2022-07-25 12:10:22,175 - logger_File -INFO - Test Execution Started
+2022-07-25 12:10:24,403 - logger_File -INFO - Test was failed
+2022-07-25 12:10:24,403 - logger_File -INFO - method name: f
+2022-07-25 12:10:26,416 - logger_File -INFO - End of Execution
+2022-07-25 12:18:21,797 - logger_File -INFO - Start of Execution
+2022-07-25 12:18:24,985 - logger_File -INFO - Hotel Page is opened
+2022-07-25 12:18:24,990 - logger_File -INFO - Test Execution Started
+2022-07-25 12:18:27,284 - logger_File -INFO - Test was failed
+2022-07-25 12:18:27,284 - logger_File -INFO - method name: f
+2022-07-25 12:18:33,535 - logger_File -INFO - End of Execution
+2022-07-25 12:18:39,689 - logger_File -INFO - Start of Execution
+2022-07-25 12:18:42,951 - logger_File -INFO - Hotel Page is opened
+2022-07-25 12:18:42,955 - logger_File -INFO - Test Execution Started
+2022-07-25 12:18:45,117 - logger_File -INFO - Test was failed
+2022-07-25 12:18:45,117 - logger_File -INFO - method name: f
+2022-07-25 12:18:47,296 - logger_File -INFO - End of Execution
+2022-07-25 12:20:18,287 - logger_File -INFO - Start of Execution
+2022-07-25 12:20:21,150 - logger_File -INFO - Hotel Page is opened
+2022-07-25 12:20:21,153 - logger_File -INFO - Test Execution Started
+2022-07-25 12:20:23,376 - logger_File -INFO - Test was failed
+2022-07-25 12:20:23,377 - logger_File -INFO - method name: f
+2022-07-25 12:20:25,437 - logger_File -INFO - End of Execution
+2022-07-25 12:21:48,162 - logger_File -INFO - Start of Execution
+2022-07-25 12:21:51,221 - logger_File -INFO - Hotel Page is opened
+2022-07-25 12:21:51,228 - logger_File -INFO - Test Execution Started
+2022-07-25 12:21:53,447 - logger_File -INFO - Test was failed
+2022-07-25 12:21:53,447 - logger_File -INFO - method name: f
+2022-07-25 12:21:55,720 - logger_File -INFO - End of Execution
+2022-07-25 12:24:00,772 - logger_File -INFO - Start of Execution
+2022-07-25 12:24:03,593 - logger_File -INFO - Hotel Page is opened
+2022-07-25 12:24:03,596 - logger_File -INFO - Test Execution Started
+2022-07-25 12:24:03,718 - logger_File -INFO - Test was passed successfully
+2022-07-25 12:24:03,718 - logger_File -INFO - method name: f
+2022-07-25 12:24:05,768 - logger_File -INFO - Hotel Page is opened
+2022-07-25 12:24:05,769 - logger_File -INFO - Test Execution Started
+2022-07-25 12:24:05,771 - logger_File -INFO - Test was passed successfully
+2022-07-25 12:24:05,772 - logger_File -INFO - method name: fe
+2022-07-25 12:24:07,819 - logger_File -INFO - Hotel Page is opened
+2022-07-25 12:24:07,821 - logger_File -INFO - Test Execution Started
+2022-07-25 12:24:07,823 - logger_File -INFO - Test was passed successfully
+2022-07-25 12:24:07,823 - logger_File -INFO - method name: fr
+2022-07-25 12:24:10,249 - logger_File -INFO - Hotel Page is opened
+2022-07-25 12:24:10,249 - logger_File -INFO - Test Execution Started
+2022-07-25 12:24:10,250 - logger_File -INFO - Test was passed successfully
+2022-07-25 12:24:10,251 - logger_File -INFO - method name: fw
+2022-07-25 12:24:10,366 - logger_File -INFO - End of Execution
